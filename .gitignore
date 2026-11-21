@@ -79,6 +79,12 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Optuna (estudos salvos em SQLite)
+*.db
+
+# macOS
+.DS_Store
+
 # IPython
 profile_default/
 ipython_config.py

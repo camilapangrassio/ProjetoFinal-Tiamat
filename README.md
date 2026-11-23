@@ -60,5 +60,11 @@ O notebook segue a ordem em que o trabalho foi feito.
 
 
 # Desenvolvedora do projeto
+Camila Cunha Pangrassio, aluna da ILUM escola de ciência do segundo semestre 
 
+# 🙏 Agradecimentos 🙏
+
+Agradecimento ao professor da matéria de Aprendizado de Máquina:
+
+📍Professor Daniel Roberto Cassar
 

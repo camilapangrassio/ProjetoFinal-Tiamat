@@ -12,10 +12,10 @@ Pré-requisito: [Conda](https://docs.conda.io/en/latest/) instalado. Para execut
 
 1. Clone o repositório e acesse a pasta:
 
-   ```bash
-   git clone [URL DO REPOSITÓRIO]
-   cd [NOME DA PASTA DO REPOSITÓRIO]
-   ```
+```bash
+git clone [URL DO REPOSITÓRIO]
+cd [NOME DA PASTA DO REPOSITÓRIO]
+```
 
 2. Crie o ambiente virtual a partir do `environment.yml`:
 

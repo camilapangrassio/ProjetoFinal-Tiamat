@@ -1,7 +1,6 @@
 # Análise de diagnósticos hospitalares com Machine Learning
 Este é um repositório feito para o projeto final da disciplina de aprendizado de máquina da ILUM, em que um conjunto de dados sobre pacientes com doenças graves foi estudado por 5 algoritmos diferentes de aprendizado de máquina, entre eles temos, regressão logística, algoritmo KNN, floresta aleatória, gradient boosting e SVM. Por fim, O melhor modelo foi escolhido para aplicar SHAP, um método que mede quanto cada variável de entrada contribuiu para uma previsão.
 
----
 
 **Status**: Em andamento
 

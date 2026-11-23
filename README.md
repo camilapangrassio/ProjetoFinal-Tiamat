@@ -40,6 +40,24 @@ jupyter lab
 
 # Como navegar
 
+O notebook segue a ordem em que o trabalho foi feito. 
+
+| Seção | O que contém |
+|---|---|
+| 1. Introdução | Apresentando o notebook |
+| 2. O conjunto de dados | retirado do UCI, sobre pacientes com condições graves |
+| 3. Tratamento de dados | resolvendo problemas do dataset |
+| 4. Divisão treino/teste | Divisão agrupada e estratificada. |
+| 5. Análise exploratória | Feita só com o treino, analisando o dataset |
+| 6. Pré-processamento e validação cruzada | O *pipeline* de pré-processamento e a validação cruzada para impedir vazamento. |
+| 7. Os 5 modelos com otimização do Optuna em cada um | Os cinco *pipelines*, com os intervalos de busca de cada hiperparâmetro e as justificativas. |
+| 8. Comparação dos modelos | procura do melhor modelo entre os feitos |
+| 9. Avaliação no teste | Uso único do conjunto de teste no melhor modelo. |
+| 10. Aplicação do SHAP | explicação de quanto cada atributo contribuiu para a previsão do melhor modelo. |
+| Uso de IA | Como a IA foi usada no trabalho |
+| Conclusões | Resultado principal e aprendizados. |
+| Referências | Fontes utilizadas na produção do trabalho. |
+
 
 # Desenvolvedora do projeto
 
